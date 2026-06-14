@@ -7,4 +7,4 @@ def sub(a, b):
     return a - b
 
 print("3 - 2 =", sub(3, 2))
-print('hello bou')
+print('hello boy')
